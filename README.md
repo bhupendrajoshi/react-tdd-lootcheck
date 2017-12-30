@@ -2,6 +2,8 @@
 
 A web app to see your balance as bitcoins
 
+[![Build Status](https://travis-ci.org/bhupendrajoshi/react-tdd-lootcheck.svg?branch=master)](https://travis-ci.org/bhupendrajoshi/react-tdd-lootcheck)
+
 ## Install dependencies
 `yarn install`
 
